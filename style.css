@@ -3,3 +3,8 @@
     font-family: 'Tillana', 'Caveat', 'Comfortaa', cursive;
 }
 
+.recipe-item {
+    text-decoration: none;
+    color: rgb(49, 134, 0);
+}
+
