@@ -57,7 +57,10 @@ body {
 /* 
 * Main 
 */
-
+main {
+  width: fit-content;
+  align-self: center;
+}
 a {
   text-decoration: none;
   font-size: 20px;
